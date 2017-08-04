@@ -34,4 +34,4 @@ private ViewTreeObserver.OnGlobalLayoutListener keyboardLayoutListener = new Vie
 
 # 效果如下
 
-![键盘布局监听效果](https://im.ezgif.com/tmp/ezgif-1-bc51ccb71a.gif)
+![键盘布局监听效果](https://github.com/fengdexunmi/login-screen/raw/master/screenshots/ezgif-1-bc51ccb71a.gif)
